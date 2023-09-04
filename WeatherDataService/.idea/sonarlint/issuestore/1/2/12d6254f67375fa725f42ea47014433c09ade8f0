@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄšÂÏûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñğ«ì
+V	java:S125)"<This block of commented-out lines of code should be removed.(¤®­·ùÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(©İëóıÿÿÿÿ
+k
+java:S1128"URemove this unused import 'com.example.WeatherDataService.Entity.WeatherApiResponse'.(­ß±
+Q
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ
+_
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ

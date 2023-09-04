@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ®ñ‰
+a
+java:S2259%"FA "NullPointerException" could be thrown; "response" is nullable here.(™è¼şÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(Ë¯Ö
+V	java:S125M"<This block of commented-out lines of code should be removed.(æ×ã™üÿÿÿÿ
+k
+java:S1128"URemove this unused import 'com.example.WeatherDataService.Entity.WeatherApiResponse'.(­ß±
+Q
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ
